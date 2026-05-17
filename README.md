@@ -1,7 +1,8 @@
 # thisisnotamanifesto ???!?
 
 A glitchy collaborative dev experiment..
-![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmExOHpmb3RwMzZnbzViZzVlaGdqMXBqMmNyYWtyZ3QzOHJwY3FvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8HVsap8b6jDEi4maV/giphy.gif)
+
+\n ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmExOHpmb3RwMzZnbzViZzVlaGdqMXBqMmNyYWtyZ3QzOHJwY3FvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8HVsap8b6jDEi4maV/giphy.gif)
 
 ## Notes for Klaudia!!
 
