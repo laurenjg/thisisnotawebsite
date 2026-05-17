@@ -4,6 +4,7 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 
+// App.jsx is the main application page that essentially 'houses' all our pages
 function App() {
   const [count, setCount] = useState(0)
 

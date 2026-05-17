@@ -17,3 +17,9 @@ And (I don't think this will be an issue but) if npm isn't installed, run :
 ```
 npm install
 ```
+
+notes for development
+
+- .jsx files are .js files with embedded html !
+- each .jsx file has an associated .css
+- index.css provides global css
