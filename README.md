@@ -1,16 +1,25 @@
-# React + Vite
+# thisisnotamanifesto ???!?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A glitchy collaborative dev experiment.. tbc :computer:
 
-Currently, two official plugins are available:
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmExOHpmb3RwMzZnbzViZzVlaGdqMXBqMmNyYWtyZ3QzOHJwY3FvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8HVsap8b6jDEi4maV/giphy.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Notes for Klaudia!! - to delete
 
-## React Compiler
+to run the dev server and see what we're changing run in the terminal:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+npm run dev
+```
 
-## Expanding the ESLint configuration
+And (I don't think this will be an issue but) if npm isn't installed, run :
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+npm install
+```
+
+notes for development
+
+- .jsx files are .js files with embedded html !
+- each .jsx file has an associated .css
+- index.css provides global css
